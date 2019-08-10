@@ -496,6 +496,23 @@ body.barber_version .sidebar-nav li a.active{
 	background: #53863c;
 }
 
+.main-logo {
+	width: 285px;
+	top: 0;
+	left: 0;
+	position: fixed;
+}
+
+@media only screen and (max-width: 768px) {
+.main-logo {
+	width: 215px;
+	top: 0;
+	left: 0;
+	position: relative;
+    	margin-top: -100px;
+}
+}
+
 
 /*------------------------------------------------------------------
     SECTIONS
