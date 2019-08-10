@@ -455,7 +455,7 @@ li.social-links a {
 
 
 body.barber_version .sidebar-nav li a.active{
-	background: #bb9d52;
+	background: #53863c;
 	color: #ffffff;
 }
 
@@ -493,7 +493,7 @@ body.barber_version .sidebar-nav li a.active{
 }
 
 #full-width .owl-dots .owl-dot.active span {
-	background: #bb9d52;
+	background: #53863c;
 }
 
 
@@ -821,9 +821,9 @@ body.barber_version .sidebar-nav li a.active{
 .desc {
     padding: 30px;
     position: relative;
-    background: #bb9d52;
-    border: 1px solid #bb9d52;
-	border-radius: 10px;
+    background: #53863c;
+    border: 1px solid #77a761;
+    border-radius: 10px;
 }
 
 .testi-meta {
@@ -1016,7 +1016,7 @@ body.barber_version .about-tab .nav-tabs > li a:hover{
 }
 .about-tab .nav-tabs > li.active > a{
 	border: none;
-	background: #bb9d52;
+	background: #53863c;
 	color: #ffffff;
 }
 
