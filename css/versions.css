@@ -83,7 +83,7 @@ body.barber_version .icon-wrapper:hover i:hover{
 body.barber_version .grd1:hover,
 body.barber_version .grd1:focus {
 	color: #ffffff;
-    background: #bb9d52;
+	background: #53863c;
 }
 
 body.barber_version .cac:hover{
@@ -91,7 +91,7 @@ body.barber_version .cac:hover{
 }
 
 body.barber_version .effect-1:after {
-    box-shadow: 0 0 0 2px #bb9d52;
+    box-shadow: 0 0 0 2px #53863c;
 }
 
 body.barber_version {    
@@ -180,7 +180,7 @@ body.barber_version .contact_form .btn {
 }
 
 body.barber_version .contact_form .btn.subt{
-	background: #bb9d52;
+	background: #53863c;
 }
 
 body.barber_version .section.db,
