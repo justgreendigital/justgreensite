@@ -31,8 +31,8 @@ body.barber_version .navbar-nav span {
 }
 
 body.barber_version .sidebar-nav li:hover a {
-    background: #bb9d52;
-	color: #ffffff;
+    background: #53863c;
+    color: #ffffff;
 }
 
 body.barber_version .lead strong,
@@ -87,7 +87,7 @@ body.barber_version .grd1:focus {
 }
 
 body.barber_version .cac:hover{
-	background: #bb9d52;
+	background: #53863c;
 }
 
 body.barber_version .effect-1:after {
@@ -149,7 +149,7 @@ body.barber_version #wrapper.toggled {
 
 body.barber_version #sidebar-wrapper {
     z-index: 1000;
-    border-right: 1px dashed rgba(255, 255, 255, 0.1);
+    /* border-right: 1px dashed rgba(255, 255, 255, 0.1); */
     position: fixed;
     left: 280px;
     width: 0;
